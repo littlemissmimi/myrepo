@@ -1,0 +1,11 @@
+review,label,data_type
+Produk ini sangat melembapkan dan membuat kulit terasa sehat.,Positive,Effectiveness
+Teksturnya ringan dan cepat meresap tanpa rasa lengket.,Positive,Texture
+Setelah pemakaian rutin kulit terlihat lebih cerah dan halus.,Positive,Effectiveness
+Aman untuk kulit sensitif dan tidak menimbulkan iritasi.,Positive,"Error: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o-mini in organization org-Rv6fTDwkb4MPooDETDwfrOnl on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+Hasilnya memuaskan dan sesuai dengan klaim produk.,Positive,Effectiveness
+Produk ini menyebabkan kulit saya beruntusan.,Negative,Side Effects
+Terasa perih dan membuat kulit menjadi kemerahan.,Negative,Side Effects
+Tidak memberikan efek apa pun meskipun sudah dipakai lama.,Negative,Effectiveness
+Teksturnya terlalu berat dan membuat wajah berminyak.,Negative,Texture
+Produk ini justru memperparah jerawat saya.,Negative,Side Effects
